@@ -1,0 +1,8 @@
+# Tools
+lua-*
+luatool
+
+# Private config
+config.lua
+/certificates/
+/scripts/certificates/.srl
